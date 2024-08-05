@@ -1,0 +1,9 @@
+1st_ly extract the zip "Snake Game 1.0".
+
+in that, go to android folder.
+
+under it there will be  "app-release.apk".
+
+Uploadd that apk to drive and open drive in mobile.
+
+download that apk in to local storage and install it in mobile.
