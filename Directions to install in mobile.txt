@@ -4,6 +4,6 @@ in that, go to android folder.
 
 under it there will be  "app-release.apk".
 
-Uploadd that apk to drive and open drive in mobile.
+Uploadd that apk to drive and open drive in mobile or You can upload to mobile via usb cable.
 
 download that apk in to local storage and install it in mobile.
